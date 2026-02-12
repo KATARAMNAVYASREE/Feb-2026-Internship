@@ -48,4 +48,17 @@ The objective of this assignment is to strengthen core programming fundamentals 
 - Google Colab
 - GitHub
 
+---
+
+## 🎯 Learning Outcomes
+
+✔ Improved logical thinking  
+✔ Strengthened Python fundamentals  
+✔ Better understanding of loops & conditions  
+✔ Clean and structured coding practices  
+
+---
+
+✨ *This project is submitted as part of the Feb 2026 Data Science Internship Program.*
+
 
